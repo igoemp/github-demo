@@ -1,0 +1,11 @@
+Set global git variables for user and email
+git version
+git config --global user.name ""
+git config --global user.email ""
+git config --global --list
+Create git repository on github
+git clone httpurl
+git status
+git add 'filename'
+git commit -m "add comment"
+git push origin master
